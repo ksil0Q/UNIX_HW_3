@@ -1,0 +1,3 @@
+/bin/sleep 15 /home/user/myinit/in1 /home/user/myinit/out1
+/bin/sleep 15 /home/user/myinit/in1 /home/user/myinit/out1
+/bin/sleep 15 /home/user/myinit/in1 /home/user/myinit/out1
