@@ -273,6 +273,7 @@ void sighup_handler(int signal)
         {
             kill(pid_list[i], SIGKILL);
             exit(0);
+            log_message(INFO, "Stoping task cause sighup signal\n");
         }
     }
 
